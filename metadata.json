@@ -1,0 +1,6 @@
+{
+  "name": "Graphica Business Portfolio",
+  "description": "A modern, premium, and fully responsive business portfolio website with elegant glassmorphism and smooth animations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
